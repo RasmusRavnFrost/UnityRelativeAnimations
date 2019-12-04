@@ -1,0 +1,2 @@
+- Transform fail to reset if project is compiled while Unity is in recording/playback mode. 
+(Thus this can force the actual position/rotation/scale to match the values at the time of compile)
